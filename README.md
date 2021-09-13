@@ -1,5 +1,5 @@
 ## `Deploy`
-[![Deploy] (https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/New-Project
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/New-Project
 
 ## CARA INSTALL
 ```bash
